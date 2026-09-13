@@ -1,0 +1,1 @@
+"""SmartMed backend application package."""
